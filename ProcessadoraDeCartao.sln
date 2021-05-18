@@ -15,7 +15,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessadoraDeCartao.Core.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessadoraDeCartao.Tests.Domain", "src\Tests\ProcessadoraDeCartao.Tests.Domain\ProcessadoraDeCartao.Tests.Domain.csproj", "{52B1A8AC-704E-40E7-8484-C05508B039C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessadoraDeCartao.Tests.Service", "src\Tests\ProcessadoraDeCartao.Tests.Service\ProcessadoraDeCartao.Tests.Service.csproj", "{28184672-64B8-46DE-8A8C-155560A0354B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessadoraDeCartao.Tests.Service", "src\Tests\ProcessadoraDeCartao.Tests.Service\ProcessadoraDeCartao.Tests.Service.csproj", "{28184672-64B8-46DE-8A8C-155560A0354B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EDAB0EA-0D4E-4E13-B05A-C0F1C7B068AD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
